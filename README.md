@@ -4,6 +4,7 @@ I'm a front-end developer who loves the process of software designing. I like to
 
 I'm looking for my first job where I can learn more from a team of Senior developers.
 
+I'm currently learning Angular10 and typescript :D
 <!--
 **KarolCislowski/KarolCislowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
