@@ -1,21 +1,28 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Karol but friends call me Dwarf.
+I'm a full-stack developer who enjoys building complex web applications and solving challenging technical problems.
 
-I'm a front-end developer who loves the process of software designing. I like to reverse engineer larger apps to understand how they work. 
+Most of my work is centered around the **TypeScript ecosystem**, with a strong focus on **React, Next.js, and Node.js**. I also work with **Neo4j and graph databases**, which I particularly enjoy when building systems where relationships between data really matter.
 
+I like working across the whole stack — from designing frontend architecture and implementing UX/UI, to building backend services and shaping database models. Clean architecture, maintainable code, and well-designed systems are things I care about.
 
-<!--
-**KarolCislowski/KarolCislowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I'm not coding, I'm usually exploring new technologies or experimenting with ideas that might turn into future projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **Languages:** TypeScript, JavaScript, Cypher  
+- **Frontend:** React, Next.js  
+- **Backend:** Node.js  
+- **Databases:** Neo4j, Graph Databases, MongoDB, PostgreSQL  
+- **Other:** REST APIs, System Architecture, UX/UI Collaboration
+
+---
+
+## 🚀 What I enjoy working on
+
+- Complex web applications  
+- Graph-based systems and data relationships  
+- Scalable architectures  
+- Performance-focused solutions  
