@@ -17,6 +17,7 @@ When I'm not coding, I'm usually exploring new technologies or experimenting wit
 - **Backend:** Node.js  
 - **Databases:** Neo4j, Graph Databases, MongoDB, PostgreSQL  
 - **Other:** REST APIs, System Architecture, UX/UI Collaboration
+- **Testing:** Vitest, Cypress
 
 ---
 
