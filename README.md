@@ -14,7 +14,7 @@ When I'm not coding, I'm usually exploring new technologies or experimenting wit
 
 - **Languages:** TypeScript, JavaScript, C#, Cypher  
 - **Frontend:** React, Next.js  
-- **Backend:** Node.js
+- **Backend:** Node.js, .NET
 - **Databases:** Neo4j, Graph Databases, MongoDB, PostgreSQL  
 - **Other:** REST APIs, System Architecture, UX/UI Collaboration
 - **Testing:** Vitest, Cypress
