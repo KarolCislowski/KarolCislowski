@@ -27,3 +27,4 @@ When I'm not coding, I'm usually exploring new technologies or experimenting wit
 - Graph-based systems and data relationships  
 - Scalable architectures  
 - Performance-focused solutions  
+- Data visualisation
