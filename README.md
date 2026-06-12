@@ -18,7 +18,7 @@ When I'm not coding, I'm usually exploring new technologies or experimenting wit
 - **Databases:** Neo4j, Graph Databases, MongoDB, PostgreSQL  
 - **Other:** REST APIs, System Architecture, UX/UI Collaboration, a11y, i18n
 - **Testing:** Vitest, Cypress
-- **DevOps:** Docker, Docker-Compose, Azure, Github Actions
+- **DevOps:** Docker, Docker-Compose, Azure, Github Actions, CI/CD
 
 ---
 
