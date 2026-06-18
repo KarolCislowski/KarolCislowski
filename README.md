@@ -12,7 +12,7 @@ When I'm not coding, I'm usually exploring new technologies or experimenting wit
 
 ## 🛠 Tech Stack
 
-- **Languages:** HTML, CSS, TypeScript, JavaScript, C#, Cypher  
+- **Languages:** HTML, CSS, SCSS, TypeScript, JavaScript, C#, Cypher  
 - **Frontend:** React, React Native, Next.js, MUI, d3
 - **Backend:** Node.js, .NET Core
 - **Databases:** Neo4j, Graph Databases, MongoDB, PostgreSQL, FireBase
