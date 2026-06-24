@@ -16,7 +16,7 @@ When I'm not coding, I'm usually exploring new technologies or experimenting wit
 - **Frontend:** React, React Native, Next.js, MUI, d3
 - **Backend:** Node.js, .NET Core
 - **Databases:** Neo4j, Graph Databases, MongoDB, PostgreSQL, FireBase
-- **Other:** REST APIs, System Architecture, UX/UI Collaboration, a11y, i18n
+- **Other:** REST APIs, System Architecture, UX/UI Collaboration, a11y, i18n, WebSockets
 - **Testing:** Vitest, Cypress
 - **DevOps:** Docker, Docker-Compose, Azure, Github Actions, CI/CD
 
